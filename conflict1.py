@@ -2,4 +2,4 @@
 
 A = 'hihi'
 D = 'HIOT'
-r = 'rrrrrrrrrrrrrrrrrrrr'
+r = '11111rrrrrrrrrrrrrrrrrrrr'
