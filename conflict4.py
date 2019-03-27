@@ -2,4 +2,4 @@
 
 A = 'hihi'
 D = 'HIOT'
-r = '547687rrrrrrrrrrrrrrrrrrrr'
+r = '2222222rrrrrrrrrrrrrrrrrrrr'
