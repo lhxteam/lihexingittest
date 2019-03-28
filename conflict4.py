@@ -1,4 +1,4 @@
 # -*- coding:utf-8 -*-
 
-A = 'QWEdfdgrtytyty'
-D = 'ASD'
+A = 'QWE'
+D = 'ASDerrthtytytrytryr'
